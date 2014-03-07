@@ -1,0 +1,80 @@
+[
+
+   {
+
+      "key": "MON",
+
+      "Call Conversion": 30,
+
+      "Call Abaoundont": 40,
+	  "cost": 10
+
+   },
+
+   {
+
+      "key": "TUE",
+
+      "Call Conversion": 30,
+
+      "Call Abaoundont": 30,
+	  "cost": 30
+
+   },
+
+   {
+
+      "key": "WED",
+
+      "Call Conversion": 12,
+
+      "Call Abaoundont": 50,
+	  "cost": 50
+
+   },
+
+   {
+
+      "key": "THU",
+
+      "Call Conversion": 80,
+
+      "Call Abaoundont": 21,
+	  "cost": 30
+
+   },
+
+   {
+
+      "key": "FRI",
+
+      "Call Conversion": 30,
+
+      "Call Abaoundont": 12,
+	  "cost": 20
+	  
+   },
+
+   {
+
+      "key": "SAT",
+
+      "Call Conversion": 26,
+
+      "Call Abaoundont": 44,
+	  "cost": 30
+
+   },
+
+   {
+
+      "key": "SUN",
+
+      "Call Conversion": 8,
+
+      "Call Abaoundont": 12,
+	  "cost": 12
+
+   }
+
+]
