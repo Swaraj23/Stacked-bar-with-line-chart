@@ -1,0 +1,36 @@
+body{
+	background-color: #f1f1f1;
+}
+
+div{
+	background-color: #f5f5f5;
+	border: 1px solid #45b2d1;
+	width: 730px;
+	margin: 5% auto;
+	padding: 2%;
+}
+.axis path,
+.axis line
+{
+    fill: none;
+    stroke: #939597;
+    shape-rendering: crispEdges;
+}
+
+.bar
+{
+    fill: #00adef;
+}
+
+.tick text
+{
+    font-size: 0.667em;
+    fill: #939597;
+}
+
+.line
+{
+    fill: none;
+    stroke: #fbaf3f;
+    stroke-width: 1px;
+}
